@@ -1,4 +1,4 @@
-package Chapter1_디자인패턴소개.SimUDuck.main;
+package Chapter1_디자인패턴소개.main;
 
 import Chapter1_디자인패턴소개.SimUDuck.Duck.Duck;
 import Chapter1_디자인패턴소개.SimUDuck.Duck.MallarDuck;
