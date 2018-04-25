@@ -1,4 +1,4 @@
-package Chapter2_옵저버패턴.Swing;
+package Chapter2_옵저버.Swing;
 
 import javax.swing.*;
 import java.awt.*;

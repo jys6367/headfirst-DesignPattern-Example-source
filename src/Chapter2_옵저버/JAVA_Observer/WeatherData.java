@@ -1,8 +1,6 @@
-package Chapter2_옵저버패턴.JAVA_Observer;
+package Chapter2_옵저버.JAVA_Observer;
 
 import java.util.Observable;
-import java.util.Observer;
-import java.util.ArrayList;
 
 public class WeatherData extends Observable {
     private float temperature;

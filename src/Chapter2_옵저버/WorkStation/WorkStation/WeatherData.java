@@ -1,7 +1,7 @@
-package Chapter2_옵저버패턴.WorkStation.WorkStation;
+package Chapter2_옵저버.WorkStation.WorkStation;
 
-import Chapter2_옵저버패턴.WorkStation.Observer.Observer;
-import Chapter2_옵저버패턴.WorkStation.Observer.Subject;
+import Chapter2_옵저버.WorkStation.Observer.Observer;
+import Chapter2_옵저버.WorkStation.Observer.Subject;
 
 import java.util.ArrayList;
 

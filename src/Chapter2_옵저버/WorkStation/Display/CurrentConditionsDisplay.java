@@ -1,8 +1,8 @@
-package Chapter2_옵저버패턴.WorkStation.Display;
+package Chapter2_옵저버.WorkStation.Display;
 
-import Chapter2_옵저버패턴.WorkStation.Observer.DisplayElement;
-import Chapter2_옵저버패턴.WorkStation.Observer.Observer;
-import Chapter2_옵저버패턴.WorkStation.Observer.Subject;
+import Chapter2_옵저버.WorkStation.Observer.DisplayElement;
+import Chapter2_옵저버.WorkStation.Observer.Observer;
+import Chapter2_옵저버.WorkStation.Observer.Subject;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;

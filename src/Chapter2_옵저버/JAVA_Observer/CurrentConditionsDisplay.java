@@ -1,6 +1,6 @@
-package Chapter2_옵저버패턴.JAVA_Observer;
+package Chapter2_옵저버.JAVA_Observer;
 
-import Chapter2_옵저버패턴.WorkStation.Observer.DisplayElement;
+import Chapter2_옵저버.WorkStation.Observer.DisplayElement;
 
 import java.util.Observer;
 import java.util.Observable;

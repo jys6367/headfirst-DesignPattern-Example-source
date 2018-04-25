@@ -1,9 +1,9 @@
-package Chapter2_옵저버패턴.main;
+package Chapter2_옵저버.main;
 
-import Chapter2_옵저버패턴.WorkStation.Display.CurrentConditionsDisplay;
-import Chapter2_옵저버패턴.WorkStation.Display.ForecastDisplay;
-import Chapter2_옵저버패턴.WorkStation.Display.StatisticsDisplay;
-import Chapter2_옵저버패턴.WorkStation.WorkStation.WeatherData;
+import Chapter2_옵저버.WorkStation.Display.CurrentConditionsDisplay;
+import Chapter2_옵저버.WorkStation.Display.ForecastDisplay;
+import Chapter2_옵저버.WorkStation.Display.StatisticsDisplay;
+import Chapter2_옵저버.WorkStation.WorkStation.WeatherData;
 
 public class WeatherStation {
     public static void main(String[] args) {
